@@ -140,6 +140,7 @@ img {
 
 .main {
     overflow: hidden;
+    margin-top: 4rem;
 }
 
 /* ================== BLOB ================ */
@@ -232,7 +233,54 @@ img {
 
 
 /* =============== HOME ================ */
+.home {
+    padding-top: 2rem;
+}
 
+.home__profile {
+        width: 220px;
+        height: 220px;
+        object-fit: cover;
+        object-position: top;
+        border-radius: 50%;
+        border: 3px solid var(--first-color);
+        box-shadow: 0 8px 25px rgba(0, 0, 0, 0.5);
+        transition: transform 0.4s;
+}
+
+.home__profil:hover {
+    transform: scale(1.05);
+}
+
+.home__split {
+    color: var(--first-color);
+    font-size: 1rem;
+}
+
+.home__profession-1,
+.home__profession-2 {
+    font-size: 1.5rem;
+}
+
+/* .home__image {
+    display: flex;
+    justify-content: center;
+} */
+
+.home__info {
+    margin-top: 1.rem;
+}
+
+.home__image {
+    position: relative;
+}
+
+.home__image .blob-animate {
+    width: 250px;
+    height: 250px;
+    top: 0;
+    left: 0;
+}
 
 /* ================ BUTTON ============== */
 
