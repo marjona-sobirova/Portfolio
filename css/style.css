@@ -121,11 +121,11 @@ img {
 
 .grid {
     display: grid;
-    grid: 1.5rem;
+    gap: 1.5rem;
 }
 
 .section {
-    padding-bottom: 5rem 1rem;
+    padding: 5rem 1rem;
 }
 
 .section__title {
@@ -248,7 +248,7 @@ img {
         transition: transform 0.4s;
 }
 
-.home__profil:hover {
+.home__profile:hover {
     transform: scale(1.05);
 }
 
@@ -268,7 +268,7 @@ img {
 } */
 
 .home__info {
-    margin-top: 1.rem;
+    margin-top: 1rem;
 }
 
 .home__image {
