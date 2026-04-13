@@ -51,8 +51,8 @@ I love building modern, responsive, and user-friendly websites with clean UI and
 
 ## 📫 Contact Me
 
-- 📩 Telegram: https://t.me/your_username  
-- 💻 GitHub: https://github.com/your_username  
+- 📩 Telegram: https://t.me/marjona_s_16  
+- 💻 GitHub: https://github.com/marjona-sobirova  
 
 ---
 
