@@ -1,20 +1,25 @@
-# 👋 Hi, I'm Marjona Sobirova
+# 👋 Hi there, I'm Marjona Sobirova
 
-💻 Frontend Developer | 🌐 Web Enthusiast  
-I build modern, responsive and user-friendly websites.
+💻 Frontend Developer | 🌐 Web Designer | 🚀 Future Full Stack Developer  
+
+I love building modern, responsive, and user-friendly websites with clean UI and smooth experience.
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning: React.js & Advanced JavaScript  
+- 🌱 Currently learning: React.js, Advanced JavaScript  
 - 🎯 Goal: Become a Full Stack Developer  
-- 💡 I love creating clean UI and interactive websites  
+- 💡 Passion: UI/UX design & web development  
 - 📍 Based in Uzbekistan  
 
 ---
 
 ## 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
 - HTML5  
 - CSS3  
@@ -24,25 +29,31 @@ I build modern, responsive and user-friendly websites.
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
 - 🌐 Personal Portfolio Website  
-- 🎨 Landing Pages  
-- 🧪 Practice Projects  
+- 🎨 Landing Page Designs  
+- 🧪 Practice Mini Projects  
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marjona-sobirova&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=marjona-sobirova&show_icons=true&theme=default)
+
+---
+
+## 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marjona-sobirova&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contact Me
 
-- Telegram: https://t.me/marjona_s_16 
-- GitHub: https://github.com/marjona-sobirova 
+- 📩 Telegram: https://t.me/your_username  
+- 💻 GitHub: https://github.com/your_username  
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thank you for visiting my profile!
