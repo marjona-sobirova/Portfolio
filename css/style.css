@@ -366,7 +366,7 @@ img {
 /* .home__image {            ----------------------------------
     display: flex;
     justify-content: center;   
-} */                         ----------------------------------
+} */                         
 /* 
 .home__info {
     margin-top: 1rem;
@@ -430,7 +430,7 @@ img {
 
 /* ================= BREAKPOINTS =============== */
 /* For small devices */
-@media screen and (max-width:320px){
+@media screen and (max-width: 320px){
     .container {
         margin-inline: 1rem;
     }
